@@ -55,3 +55,5 @@ git clone https://github.com/kubrakoksal/People-Counter
 cd People-Counter
 python counter.py
 ```
+## DEMO
+![result-gif](https://user-images.githubusercontent.com/47196852/82732988-69068680-9d19-11ea-8a80-7af1ca45aa8f.gif)
