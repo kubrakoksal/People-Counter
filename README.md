@@ -33,9 +33,9 @@ If you find this repo useful in your research, please consider citing:
 
 ## Prerequisites
 [GitHub Page](https://github.com/jjhelmus/berryconda) (Installing BerryConda).<br />
+The Vision API Token file to be used in the project should be downloaded as described on the slide. (Token.json)<br />
 
 Python Libraries<br />
-The Vision API Token file to be used in the project should be downloaded as described on the slide. (Token.json)<br />
 ```
 pip install numba
 conda install scikit-learn
