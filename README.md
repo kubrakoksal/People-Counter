@@ -4,7 +4,7 @@ The project uses Google Cloud Vision API to object detection and Sort algorithm 
 
 ## Object Tracking
 The Sort algorithm was used to track the objects. [GitHub Page](https://github.com/abewley/sort/blob/master/sort.py).
-###SORT
+### SORT
 A simple online and realtime tracking algorithm for 2D multiple object tracking in video sequences. See an example video here.
 
 By Alex Bewley
@@ -31,8 +31,9 @@ If you find this repo useful in your research, please consider citing:
 }
 ```
 
-### Prerequisites
-https://github.com/jjhelmus/berryconda (Installing BerryConda)<br />
+## Prerequisites
+[GitHub Page](https://github.com/jjhelmus/berryconda) (Installing BerryConda).<br />
+
 Python Libraries<br />
 The Vision API Token file to be used in the project should be downloaded as described on the slide. (Token.json)<br />
 ```
@@ -47,7 +48,7 @@ conda install matplotlib
 pip install filterpy
 ```
 
-### Getting Started
+## Getting Started
 Open raspberry pi terminal 
 ```
 git clone https://github.com/kubrakoksal/People-Counter
